@@ -219,11 +219,11 @@
 					</tr>
 					<tr>
 						<td>---</td>
-						<td>---</td>
-						<td>---</td>
-						<td>---</td>
-						<td>---</td>
-						<td>---</td>
+						<td>1-1</td>
+						<td>1|1</td>
+						<td>1 1</td>
+						<td>1-1</td>
+						<td>1-1</td>
 					</tr>
 				</tbody>
 			</table>
