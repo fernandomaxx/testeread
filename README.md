@@ -435,7 +435,7 @@
 
 <table>
 	<thead>
-    	<th><img src="https://i.screenshot.net/pde12tk" width="350"/></th>
+    	<th><img src="https://i.screenshot.net/8y1j4ie" width="350"/></th>
     	<th>
 			<table>
 				<thead>
