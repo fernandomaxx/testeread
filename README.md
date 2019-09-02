@@ -2,7 +2,7 @@
 
 <table style="text-align:right;">
 	<thead>
-    	<th><img src="https://i.screenshot.net/qvlxru2"/></th>
+    	<th><img src="https://i.screenshot.net/qvlxru2" width="400"/></th>
     	<th>
 			<table>
 				<thead>
@@ -68,11 +68,11 @@
 		<th>
 			<table>
 				<thead>
-					<th>1</th>
+					<th>priority queue</th>
 				</thead>
 				<tbody>
 					<tr>
-						<td>---</td>
+						<td>-------</td>
 					</tr>
 				</tbody>
 			</table>
@@ -148,7 +148,7 @@
 		<th>
 			<table>
 				<thead>
-					<th>priority-queue</th>
+					<th>priority queue</th>
 				</thead>
 				<tbody>
 					<tr>
