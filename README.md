@@ -65,6 +65,23 @@
 				</tbody>
 			</table>
 		</th>
+		<th>
+			<table>
+				<thead>
+					<th>1</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+					</tr>
+				</tbody>
+			</table>
+		</th>
   	</thead>
 </table>
 
