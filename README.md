@@ -2,7 +2,7 @@
 
 <table style="text-align:right;">
 	<thead>
-    	<th><img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/></th>
+    	<th><img src="https://screenshot.net/pt/qvlxru2" width="200"/></th>
     	<th>
 			<table>
 				<thead>
