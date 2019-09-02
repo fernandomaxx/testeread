@@ -15,7 +15,7 @@
     <th>6</th>
   </thead>
   <tbody>
-    <tr>
+    <tr style="text-align:right;">
       <td>-a</td>
       <td>-</td>
       <td>-b</td>
