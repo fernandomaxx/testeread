@@ -76,6 +76,15 @@
   }
 </style>
 
+
+<head>
+<style type="text/css">
+p {color:white; font-size: 10px;}
+.center {display: block; margin: 0 auto;}
+#button-go, #button-back {border: solid 1px black;}
+</style>
+</head>
+
 <h2>Example of code</h2>
 
 <div id="conteudo"><!-- abrimos a div conteudo -->
