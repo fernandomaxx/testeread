@@ -131,7 +131,8 @@
                     <td>-</td>
                   </tr>
                 </tbody>
-              </table></h2>
+              </table>
+            </h2>
             <div class="wrap">
                 //Your content
             </div>
