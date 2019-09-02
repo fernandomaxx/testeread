@@ -5,7 +5,7 @@
 
 # testeread
 
-<table style="align: right">
+<table style="text-align:right;">
   <thead>
     <th>1</th>
     <th>2</th>
@@ -65,10 +65,3 @@
     </tr>
   </tbody>
 </table>
-
-          Exemplo   | Valor do exemplo
-          --------- | ------
-          Exemplo 1 | R$ 10
-          Exemplo 2 | R$ 8
-          Exemplo 3 | R$ 7
-          Exemplo 4 | R$ 8
