@@ -69,7 +69,7 @@
 <h2>Example of code</h2>
 
 <pre>
-    <div class="container">
+    <div>
         <table style="text-align:right;">
           <thead>
             <th>1000</th>
