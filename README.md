@@ -7,18 +7,18 @@
 
 <table style="text-align:right;">
   <thead>
-    <th>1</th>
+    <th>1000</th>
     <th>2</th>
-    <th>3</th>
+    <th>3000</th>
     <th>4</th>
     <th>5</th>
     <th>6</th>
   </thead>
   <tbody>
     <tr>
+      <td>-a</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>-b</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
