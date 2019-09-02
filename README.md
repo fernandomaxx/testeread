@@ -5,6 +5,8 @@
 
 # testeread
 
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/>
+
 <table style="text-align:right;">
   <thead>
     <th>1000</th>
