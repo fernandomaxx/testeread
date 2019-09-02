@@ -1,6 +1,6 @@
 # testeread
 
-<table>
+    <table>
   <thead>
     <th>TOPOAA></th>
     <th>TOPOBB></th>
@@ -15,4 +15,4 @@
       <td>DDD</td>
     </tr>
   </tbody>
-</table>
+    </table>
