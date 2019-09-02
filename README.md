@@ -1,72 +1,77 @@
-<div style="text-align: right"> your-text-here </div>
+<div style="text-align: right;"> your-text-here </div>
 
 <p style='text-align: justify;'> Your Text </p>
 
 
 # testeread
 
-<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/>
-
-<table style="text-align:right;">
-  <thead>
-    <th>1000</th>
-    <th>2</th>
-    <th>3000</th>
-    <th>4</th>
-    <th>5</th>
-    <th>6</th>
-  </thead>
-  <tbody>
-    <tr style="text-align:right;">
-      <td>-a</td>
-      <td>-</td>
-      <td>-b</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+<div>
+  <div>  
+    <img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/>
+  </div>
+  <div>
+    <table style="text-align:right;">
+      <thead>
+        <th>1000</th>
+        <th>2</th>
+        <th>3000</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+      </thead>
+      <tbody>
+        <tr style="text-align:right;">
+          <td>-a</td>
+          <td>-</td>
+          <td>-b</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <style type="text/css">
   body {
