@@ -163,7 +163,7 @@
   	</thead>
 </table>
 
-<table style="text-align:right;">
+<table>
 	<thead>
     	<th><img src="https://i.screenshot.net/y7zlvhk" width="350"/></th>
     	<th>
@@ -196,7 +196,7 @@
 					<tr>
 						<td>1-1</td>
 						<td>---</td>
-						<td>---</td>
+						<td>2-2</td>
 						<td>---</td>
 						<td>---</td>
 						<td>---</td>
@@ -205,7 +205,7 @@
 						<td>---</td>
 						<td>---</td>
 						<td>---</td>
-						<td>---</td>
+						<td>2-3</td>
 						<td>---</td>
 						<td>---</td>
 					</tr>
@@ -235,10 +235,13 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td>1 1 2 1</td>
+						<td>1 1 3 1</td>
 					</tr>
 					<tr>
-						<td>1 1 3 1</td>
+						<td>2 2 3 2</td>
+					</tr>
+					<tr>
+						<td>2 2 4 3</td>
 					</tr>
 				</tbody>
 			</table>
