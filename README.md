@@ -70,7 +70,7 @@
 
 <div id="conteudo"><!-- abrimos a div conteudo -->
  
-<div id="conteudo-left"></div>
-<div id="conteudo-right"></div>
+<div id="conteudo-left">a</div>
+<div id="conteudo-right">a</div>
  
 </div>
