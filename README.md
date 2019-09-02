@@ -111,6 +111,12 @@ p {color:white; font-size: 10px;}
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Basic HTML Table</h2>
+
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
@@ -119,12 +125,20 @@ p {color:white; font-size: 10px;}
   </tr>
   <tr>
     <td>Jill</td>
-    <td>Smith</td> 
+    <td>Smith</td>
     <td>50</td>
   </tr>
   <tr>
     <td>Eve</td>
-    <td>Jackson</td> 
+    <td>Jackson</td>
     <td>94</td>
   </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
 </table>
+
+</body>
+</html>
