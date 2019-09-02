@@ -1,6 +1,6 @@
 # testeread
 
-<table>
+<table align="center">
   <thead>
     <th>TOPOAA></th>
     <th>TOPOBB></th>
