@@ -148,7 +148,7 @@
 		<th>
 			<table>
 				<thead>
-					<th>dc s t l</th>
+					<th>priority-queue</th>
 				</thead>
 				<tbody>
 					<tr>
