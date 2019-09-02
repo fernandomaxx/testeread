@@ -1,5 +1,7 @@
 <div style="text-align: right"> your-text-here </div>
 
+<p style='text-align: justify;'> Your Text </p>
+
 
 # testeread
 
