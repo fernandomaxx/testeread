@@ -2,7 +2,7 @@
 
 <table style="text-align:right;">
 	<thead>
-    	<th><img src="https://i.screenshot.net/qvlxru2" width="400"/></th>
+    	<th><img src="https://i.screenshot.net/qvlxru2" width="350"/></th>
     	<th>
 			<table>
 				<thead>
@@ -82,7 +82,7 @@
 
 <table style="text-align:right;">
 	<thead>
-    	<th><img src="https://i.screenshot.net/jlj8oum" width="400"/></th>
+    	<th><img src="https://i.screenshot.net/jlj8oum" width="350"/></th>
     	<th>
 			<table>
 				<thead>
