@@ -2,7 +2,7 @@
 
 <table style="text-align:right;">
 	<thead>
-    	<th><img src="https://screenshot.net/pt/qvlxru2" width="200"/></th>
+    	<th><img src="https://i.screenshot.net/qvlxru2"/></th>
     	<th>
 			<table>
 				<thead>
