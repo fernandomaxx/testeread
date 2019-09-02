@@ -16,3 +16,14 @@
     <th>2</th>
   </thead>
 </table>
+
+<table>
+	<thead>
+		<th>10</th>
+    </thead>
+	<tbody>
+		<tr>
+        	<td>-a</td>
+		</tr>
+    </tbody>
+</table>
