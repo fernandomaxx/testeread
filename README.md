@@ -195,19 +195,27 @@
 					</tr>
 					<tr>
 						<td>1-1</td>
-						<td>---</td>
 						<td>2-2</td>
 						<td>---</td>
 						<td>---</td>
 						<td>---</td>
+						<td>---</td>
 					</tr>
 					<tr>
-						<td>---</td>
-						<td>---</td>
 						<td>---</td>
 						<td>2-3</td>
 						<td>---</td>
 						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>---</td>
@@ -216,14 +224,6 @@
 						<td>---</td>
 						<td>---</td>
 						<td>---</td>
-					</tr>
-					<tr>
-						<td>---</td>
-						<td>1-1</td>
-						<td>1|1</td>
-						<td>1 1</td>
-						<td>1-1</td>
-						<td>1-1</td>
 					</tr>
 				</tbody>
 			</table>
