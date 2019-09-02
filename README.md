@@ -1165,7 +1165,7 @@
 
 <table>
 	<thead>
-    	<th><img src="https://i.screenshot.net/pde12tk" width="350"/></th>
+    	<th><img src="https://i.screenshot.net/zgx63tz" width="350"/></th>
     	<th>
 			<table>
 				<thead>
@@ -1248,7 +1248,7 @@
 
 <table>
 	<thead>
-    	<th><img src="https://i.screenshot.net/pde12tk" width="350"/></th>
+    	<th><img src="https://i.screenshot.net/zgx63tz" width="350"/></th>
     	<th>
 			<table>
 				<thead>
@@ -1483,6 +1483,83 @@
 					<tr>
 						<td>5 6 3 5</td>
 					</tr>
+				</tbody>
+			</table>
+		</th>
+  	</thead>
+</table>
+
+<table>
+	<thead>
+    	<th><img src="https://i.screenshot.net/pde12tk" width="350"/></th>
+    	<th>
+			<table>
+				<thead>
+					<th>1</th>
+					<th>2</th>
+					<th>3</th>
+					<th>4</th>
+					<th>5</th>
+					<th>6</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>---</td>
+						<td>3-1</td>
+						<td>3-1</td>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td>1-1</td>
+						<td>---</td>
+						<td>2-2</td>
+						<td>3-3</td>
+						<td>---</td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td>1-1</td>
+						<td>2-2</td>
+						<td>---</td>
+						<td>3-4</td>
+						<td>---</td>
+						<td>5-4</td>
+					</tr>
+					<tr>
+						<td>---</td>
+						<td>2-3</td>
+						<td>2-4</td>
+						<td>---</td>
+						<td>4-2</td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td>---</td>
+						<td>---</td>
+						<td>---</td>
+						<td>3-2</td>
+						<td>---</td>
+						<td>3-5</td>
+					</tr>
+					<tr>
+						<td>---</td>
+						<td>---</td>
+						<td>3-4</td>
+						<td>---</td>
+						<td>4-5</td>
+						<td>---</td>
+					</tr>
+				</tbody>
+			</table>
+		</th>
+		<th>
+			<table>
+				<thead>
+					<th>priority queue</th>
+				</thead>
+				<tbody>
 				</tbody>
 			</table>
 		</th>
