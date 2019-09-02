@@ -93,3 +93,13 @@ p {color:white; font-size: 10px;}
 <div id="conteudo-right">a</div>
  
 </div>
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:black;">
+
+<h1 style="color:white;padding:30px;">Hostinger Tutorials</h1>
+<p style="color:white;">Something usefull here.</p>
+
+</body>
+</html>
