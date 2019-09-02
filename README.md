@@ -152,7 +152,8 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td>-------</td>
+						<td>1 1 2 1</td>
+						<td>1 1 3 1</td>
 					</tr>
 				</tbody>
 			</table>
