@@ -132,3 +132,26 @@
         </table>
     </div>
 </pre>
+
+</head>
+<body>
+<div class="container">
+   <div class="cabecalho_login">Administração do Website</div>
+   <div class="box_login" align="center"> <!-- ESTA É A DIV ONDE A TABELA ESTÁ INSERIDA -->
+      <table> <!-- ESTA É A TABELA QUE QUERO CENTRALIZAR VERTICALMENTE -->
+         <tr>
+            <td class="lbl_txt">Usuário:</td>
+            <td><input type="text" class="input_txt"></td>
+        </tr>
+        <tr>
+           <td class="lbl_txt">Senha:</td>
+           <td><input type="password" class="input_txt"></td>
+       </tr>
+       <tr>
+          <td colspan="2" align="center"><a href="#" class="botao">Login</a></td>
+       <tr>
+     </table>
+   </div>
+</div>
+</body>
+</html>
