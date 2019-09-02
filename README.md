@@ -66,6 +66,16 @@
   </tbody>
 </table>
 
+<style type="text/css">
+  body {
+    background-color: blue; 
+  } 
+  h2 { 
+    color: red; 
+    padding: 60px; 
+  }
+</style>
+
 <h2>Example of code</h2>
 
 <div id="conteudo"><!-- abrimos a div conteudo -->
